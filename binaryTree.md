@@ -19,3 +19,5 @@
   *  4, 7 ve 5'ten küçük; 1 ve 3'ten büyük olduğu için 3'ün sağ tarafına yazılır.
 
   *  2, 7 ve 5'ten küçük; 1'den büyük ve 3'ten küçük olduğu için 3'ün sol tarafına yazılır.
+
+[patika.dev](patika.dev)
